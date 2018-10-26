@@ -1,0 +1,22 @@
+{
+  "name": "BaasJustTest",
+  "version": "0.1.0",
+  "summary": "A short description of BaasJustTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/developerBGI/BaasJustTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "developerBGI": "lixiezhuang@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/developerBGI/BaasJustTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BaasJustTest/Classes/**/*"
+}

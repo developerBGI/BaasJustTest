@@ -1,0 +1,6 @@
+framework module BaasJustTest {
+  umbrella header "BaasJustTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
